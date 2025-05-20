@@ -1,0 +1,27 @@
+tests/test_calc_class.py::test_last_answer_init
+tests/test_calc_class.py::test_add
+tests/test_calc_class.py::test_subtract
+tests/test_calc_class.py::test_subtract_negative
+tests/test_calc_class.py::test_multiply
+tests/test_calc_class.py::test_divide
+tests/test_calc_class.py::test_divide_by_zero
+tests/test_calc_class.py::test_maximum[3.0-2.0-3.0]
+tests/test_calc_class.py::test_maximum[2.0-3.0-3.0]
+tests/test_calc_class.py::test_maximum[3.0-3.0-3.0]
+tests/test_calc_class.py::test_minimum[3.0-2.0-2.0]
+tests/test_calc_class.py::test_minimum[2.0-3.0-2.0]
+tests/test_calc_class.py::test_minimum[2.0-2.0-2.0]
+tests/test_calc_func.py::test_add
+tests/test_calc_func.py::test_subtract
+tests/test_calc_func.py::test_subtract_negative
+tests/test_calc_func.py::test_multiply
+tests/test_calc_func.py::test_divide
+tests/test_calc_func.py::test_divide_by_zero
+tests/test_calc_func.py::test_maximum[3.0-2.0-3.0]
+tests/test_calc_func.py::test_maximum[2.0-3.0-3.0]
+tests/test_calc_func.py::test_maximum[3.0-3.0-3.0]
+tests/test_calc_func.py::test_minimum[3.0-2.0-2.0]
+tests/test_calc_func.py::test_minimum[2.0-3.0-2.0]
+tests/test_calc_func.py::test_minimum[2.0-2.0-2.0]
+
+25 tests collected in 0.03s
